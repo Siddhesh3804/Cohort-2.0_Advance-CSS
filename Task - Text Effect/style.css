@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: aquamarine;
+    background-color: black;
+    font-family: monospace;
+}
+
+p{
+    font-size: 3rem; 
+}
+
+button{
+    color: aquamarine;
+    background-color: transparent;
+    padding: 10px 20px;
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: 600;
+    border: 3px solid aquamarine;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+button:hover{
+    color: black;
+    background-color: aquamarine;
+}
+
+button:active{
+    scale: 0.95;
+}
