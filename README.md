@@ -71,3 +71,12 @@ Open the **index.html** file in your browser.
 ---
 
 ⭐ This repository is part of my **frontend learning journey in Cohort 2.0**.
+=======
+# Advance CSS Tasks
+## 🔗 Live Demo
+
+
+### 1] Text Effect -:		https://cohort-2-0-advcss-texteffect.vercel.app/
+
+### 2] Spotlight Effect -:		https://cohort-2-0-advcss-spotlighteffect.vercel.app/
+>>>>>>> 90573dcf6c1fe9db38f7adc6b4e905c37e19ca2c
